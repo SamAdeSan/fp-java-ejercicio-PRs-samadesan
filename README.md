@@ -10,13 +10,8 @@ En esta tarea, cada alumno contribuirá a un proyecto compartido mediante **Pull
 ## 🔥 **Instrucciones**
 
 ### 1️⃣ **Clona el repositorio**
+Cada alumno va al repositorio en GitHub y hace clic en Fork (esto creará una copia en su cuenta personal).
 
-Primero, haz una copia local del proyecto en tu computadora.
-
-```bash
-git clone https://github.com/tu-usuario/fp-java-ejercicio-clase.git
-cd fp-java-ejercicio-clase
-```
 
 ---
 
