@@ -10,10 +10,6 @@ public class RedondeodeNumeros {
     public double getNum() {
         return num;
     }
-
-    public void setNum(double num) {
-        this.num = num;
-    }
     public int numerordondejat(){
         int numr = (int) this.num;
         if(this.num-numr>=0.5){
