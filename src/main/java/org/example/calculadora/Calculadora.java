@@ -8,6 +8,9 @@ public class Calculadora {
     public static int restar(int a, int b) {
         return a - b;
     }
+    public static int multiplicar(inta, int b){
+        return a * b;
+    }
 
     // TODO: Agrega nuevas operaciones aquí (multiplicación, división, etc.)
 
