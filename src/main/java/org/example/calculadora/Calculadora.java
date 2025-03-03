@@ -1,6 +1,6 @@
 package org.example.calculadora;
 
-import static org.example.calculadora.Potencia.potencia;
+org.example.calculadora.Potencia.Potencia;
 
 public class Calculadora {
     public static int sumar(int a, int b) {
@@ -27,5 +27,8 @@ public class Calculadora {
         System.out.println(redondeodeNumeros.numerordondejat());
         System.out.println(potencia(5,3));
         System.out.println(media(6,4));
+        System.out.println(raizCuadrada(9));
+        System.out.println(raizCubica(27));
+        System.out.println(calcular(27,3));
     }
 }
