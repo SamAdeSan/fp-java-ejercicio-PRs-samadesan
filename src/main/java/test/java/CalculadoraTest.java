@@ -20,4 +20,12 @@ class CalculadoraTest {
         int resultado = calc.restar(10, 5);
         assertEquals(5, resultado, "La suma de 2 y 3 debería ser 5");
     }
+
+    @Test
+    void testDivision() {
+        Calculadora calc = new Calculadora();
+        int resultado = calc.dividir(10, 2);
+        assertEquals(5, resultado, "La división de 10 entre 2 debería ser 5");
+    }
+
 }
